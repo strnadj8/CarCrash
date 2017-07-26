@@ -4,6 +4,7 @@
 This program was written in Python 3.2.2 using the graphics module VPython. VPython can be installed using the following links:
 
 Windows: http://vpython.org/contents/download_windows.html
+
 Mac: http://vpython.org/contents/download_mac.html
 
 
