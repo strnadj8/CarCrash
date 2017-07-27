@@ -1,6 +1,6 @@
 # J.J. Strnad, Physics 130B
 # Car Crash Simulator
-# Spring 2013
+# Fall 2012
 
 from visual import *
 import time
